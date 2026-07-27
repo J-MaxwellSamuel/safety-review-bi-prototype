@@ -47,7 +47,6 @@ The goal is to showcase proficiency in:
 |------|----------|
 | **Excel** | Source data for safety operations |
 | **Power BI** | Data modeling, DAX, and visualization |
-| **Copilot AI** | Assisted documentation and workflow optimization |
 
 ---
 
